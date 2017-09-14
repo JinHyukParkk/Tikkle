@@ -19,6 +19,7 @@
 
 
 Amazon url : http://ec2-52-78-89-174.ap-northeast-2.compute.amazonaws.com
+
 GitHub url : https://github.com/WEBTIKKLE/TIKKLE
 
 감사합니다.
