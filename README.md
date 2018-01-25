@@ -1,4 +1,9 @@
-# 마인드 맵을 이용한 아이디어 확장 웹
+TIKKLE MOA TAESAN
+=============
+< 404_NOT_FOUND TEAM Project >
+-------------
+2016.11
+MindMap 을 기반으로한 아이디어 공유 및 공모전 기획 사이트
 
 
 로컬서버에서 테스트 하실 경우 테스트 데이터 및 데이터 베이스 생성을 위해 database/construct.php 를 먼저 실행시켜 데이터베이스 및 테스트 데이터를 넣고 시작해주셔야 합니다. 
@@ -20,12 +25,6 @@
 
 Amazon url : http://ec2-52-78-89-174.ap-northeast-2.compute.amazonaws.com
 
-TIKKLE MOA TAESAN
-=============
-< 404_NOT_FOUND TEAM Project >
--------------
-2016.11
-MindMap 을 기반으로한 아이디어 공유 및 공모전 기획 사이트
 
 Login Page
 ------------
